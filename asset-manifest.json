@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/m-kyu/todolist.git/static/css/main.c044de32.css",
-    "main.js": "/m-kyu/todolist.git/static/js/main.f425b7ca.js",
-    "static/js/787.5079a6ff.chunk.js": "/m-kyu/todolist.git/static/js/787.5079a6ff.chunk.js",
-    "index.html": "/m-kyu/todolist.git/index.html",
-    "main.c044de32.css.map": "/m-kyu/todolist.git/static/css/main.c044de32.css.map",
-    "main.f425b7ca.js.map": "/m-kyu/todolist.git/static/js/main.f425b7ca.js.map",
-    "787.5079a6ff.chunk.js.map": "/m-kyu/todolist.git/static/js/787.5079a6ff.chunk.js.map"
+    "main.css": "/todolist/static/css/main.c044de32.css",
+    "main.js": "/todolist/static/js/main.cd3624de.js",
+    "static/js/787.5079a6ff.chunk.js": "/todolist/static/js/787.5079a6ff.chunk.js",
+    "index.html": "/todolist/index.html",
+    "main.c044de32.css.map": "/todolist/static/css/main.c044de32.css.map",
+    "main.cd3624de.js.map": "/todolist/static/js/main.cd3624de.js.map",
+    "787.5079a6ff.chunk.js.map": "/todolist/static/js/787.5079a6ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c044de32.css",
-    "static/js/main.f425b7ca.js"
+    "static/js/main.cd3624de.js"
   ]
 }
